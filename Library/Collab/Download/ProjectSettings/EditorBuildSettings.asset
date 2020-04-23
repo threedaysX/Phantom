@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BathRoom/BathRoom_Up.unity
+    guid: 53cdc464bfe33a24fb7fe39b1959c34f
+  - enabled: 1
+    path: Assets/Scenes/BathRoom/BathRoom_Right_.unity
+    guid: 948572da7664f4a46a95a9f612d7f709
+  - enabled: 1
+    path: Assets/Scenes/BathRoom/BathRoom_Down.unity
+    guid: 79440ad79eec39541a5e78e87ac2746b
+  - enabled: 1
+    path: Assets/Scenes/BathRoom/BathRoom_Left.unity
+    guid: 608ffa1213c9f8f4db59b82b408b5563
+  - enabled: 1
+    path: Assets/Scenes/DressingRoom/DressingRoom_Up.unity
+    guid: 3a95bf2a5cab7304db15a42dbc2a028e
+  - enabled: 1
+    path: Assets/Scenes/DressingRoom/DressingRoom_Right.unity
+    guid: 54c0d47eef115b240a82d0b05f3c0078
+  - enabled: 1
+    path: Assets/Scenes/DressingRoom/DressingRoom_Down.unity
+    guid: 989c82fec47a41e40ab30eeed4043fc5
+  - enabled: 1
+    path: Assets/Scenes/DressingRoom/DressingRoom_Left.unity
+    guid: 8637a6a54b1824046a08437c7d87ebdd
+  - enabled: 1
+    path: Assets/Scenes/Theater/Theater_Up.unity
+    guid: 084ff7412d4610c43881adce244d319c
+  - enabled: 1
+    path: Assets/Scenes/Theater/Theater_Right.unity
+    guid: 58963e5e6038eb14ead00d0fa16afad2
+  - enabled: 1
+    path: Assets/Scenes/Theater/Theater_Down.unity
+    guid: b7d87d2471f22b2498c86cea3cca3fb2
+  - enabled: 1
+    path: Assets/Scenes/Theater/Theater_Left.unity
+    guid: 8369e0e823e142548b2cd3471ed63f84
+  - enabled: 1
+    path: Assets/Scenes/Basement/Basement_Up.unity
+    guid: 5f39f7fdebdf3e143b81cd9578cf0a4b
+  - enabled: 1
+    path: Assets/Scenes/Basement/Basement_Right.unity
+    guid: 2c678e7968a32644ea47b80c186593bd
+  - enabled: 1
+    path: Assets/Scenes/Basement/Basement_Down.unity
+    guid: cfdefa89e43ac2e4aa24cea32e5fe2c8
+  - enabled: 1
+    path: Assets/Scenes/Basement/Basement_Left.unity
+    guid: 88387bd244dbe414b872f9172540ffe0
+  - enabled: 1
+    path: Assets/Scenes/Piano_Perform.unity
+    guid: 928586c14252f8f438cfdf0354e46acd
+  m_configObjects: {}

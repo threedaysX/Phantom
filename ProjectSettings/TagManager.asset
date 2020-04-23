@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CollectableItem
+  - InteractiveObject
+  - Hole
+  - Piano
+  - ObjectLevelModel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2548086871
+    locked: 0
+  - name: Item
+    uniqueID: 1433909209
+    locked: 0
+  - name: UI
+    uniqueID: 1341696027
+    locked: 0
+  - name: ClickEffect
+    uniqueID: 1993896481
+    locked: 0
